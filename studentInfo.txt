@@ -1,0 +1,1 @@
+Firstname: john, Lastname: john, Username: rock, Password: 1234, Grade: 0, Plagiarized: False, Student number: 876
